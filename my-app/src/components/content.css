@@ -1,0 +1,126 @@
+.andrew {
+    width: 1170px; 
+    height: 700px; 
+    /* background-color: aqua; */
+    padding-left: 47px;
+    padding-right: 47px;
+    display: flex;
+    
+  }
+  .mira1{
+    flex-direction: column;
+
+  }
+  ul.custom-ul{
+    padding-left: 100px;
+    margin-top: 10px;
+    /* border-bottom: 0.1px solid rgba(84, 108, 122, 0.2);
+    margin: 10px 0; */
+  }
+  ul.custom-ul li:nth-child(2) {
+    margin-top: -10px;
+  }
+  .line-container {
+    padding-left: 100px;
+    margin-top: 10px;
+  }
+  
+  .horizontal-line {
+    margin: 10px 0;
+    width: 97%;
+  }
+  .mira2{
+   
+    flex-direction: column;
+
+  }
+  
+    .leetcode-logo {
+        width: 300px;
+        height: 180px;
+        margin-top: 20px;
+        margin-left: 30px;
+        border-radius: 8px;
+    }
+    .separator {
+        border-left: 0.1px solid #000000; 
+    }
+
+    ul.final{
+        flex-direction: column;
+        
+    }
+    
+    .contribute-promo {
+        width: 300px;
+        height: 180px;
+        margin-top: 20px;
+        margin-left: 30px;
+        border-radius: 8px;
+        display: flex;
+        flex-direction: column;
+        -webkit-font-smoothing: antialiased;
+        background: linear-gradient(-150deg, #424141 15%, #4e5056 70%, #505b6b 94%);
+        color: #fefefe;
+        border-radius: 10px;
+        border: none; /* Remove the border */
+    }
+    
+    #contribute-title {
+        font-size: 18px;
+        align-self: flex-start; /* Align the title to the start */
+        margin-top: 10px; /* Add some top margin for spacing */
+    }
+    
+    #contribute-desc {
+        font-size: 14px;
+        color: #bbb;
+        margin-top: 10px; /* Add some top margin for spacing */
+    }
+    
+    #contribute-action {
+        font-weight: bold;
+        margin-top: auto; /* Push the button to the bottom */
+        padding: 5px;
+        border-radius: 5px;
+        text-align: center;
+        width: 90px;
+        align-self: flex-end;
+    }
+
+    .last {
+        /* display: flex; */
+        justify-content: flex-end;
+        align-items: flex-start;
+        flex-direction: column;
+    }
+    
+    .middle {
+        /* display: flex; */
+        flex-direction: column;
+        /* align-items: flex-start; */
+
+    }
+    
+    .sirname {
+        /* display: flex; */
+        align-items: flex-start;
+        flex-direction: column;
+    }
+    .ul.suyash{
+        flex-direction: column;
+    }
+    
+    
+    
+    
+  
+
+  
+
+  
+  
+  
+
+
+  
